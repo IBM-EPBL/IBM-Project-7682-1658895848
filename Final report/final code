@@ -88,18 +88,3 @@ void exhaustFanOn(int buttonState){
     lcd.clear();
   }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-IBM-Project-8119-1658909619/GAS LEAKAGE MONITORING AND ALERTING SYSTEM FOR INDUSTRIES CIRCUIT AND SCHEMATIC VIEW.pdf at main · IBM-EPBL/IBM-Project-8119-1658909619
